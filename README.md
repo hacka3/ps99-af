@@ -1,4 +1,4 @@
-# ps99-af
+# ps99-skyhub
 Pet simulator 99 autofarm script
 inspired off of red9999's autofarm script but with a few inprovements
 # updates
@@ -8,10 +8,11 @@ inspired off of red9999's autofarm script but with a few inprovements
   -same as eggs but with your pet equip                                                                                                      
   -faster tp (teleport)                                                                                                      
   -some bugfixes and other small things                                                                                                      
+  -auto quests ()
 if you dont have a mobile excuter use codex its the best mobile excuter for free but the only downside to it is theres 3 keys kina sux                                                                                                      
 # SCRIPT
 codex download (its for mobile but you can use bluestacks on pc)                                                                                          
 codex.lol                                                                                          
 copy and paste                                                                                                       
-loadstring(game:HttpGet("https://raw.githubusercontent.com/hacka3/ps99-af/main/autofarm"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/hacka3/ps99-af/main/sky%20hub"))()
 
