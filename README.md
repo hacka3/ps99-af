@@ -1,4 +1,4 @@
-# ps99-skyhub
+# ps99-skyhub v1.204
 Pet simulator 99 autofarm script
 inspired off of red9999's autofarm script but with a few inprovements
 # updates
