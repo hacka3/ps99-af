@@ -14,6 +14,6 @@ if you dont have a mobile excuter use codex its the best mobile excuter for free
 codex download (its for mobile but you can use bluestacks on pc)                                                                                          
 codex.lol                                                                                          
 copy and paste                                                                                                       
-loadstring(game:HttpGet("https://raw.githubusercontent.com/hacka3/ps99-af/main/sky%20hub", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/hacka3/ps99-af/main/skyhub", true))()
 
 
